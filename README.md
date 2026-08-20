@@ -23,4 +23,4 @@ The dashboard is built with a user-centric navigation system, divided into three
 * Agent Analysis Page: A deep dive into individual agent performance, comparing Actual ASA vs. Target ASA.
 * What-If Analysis Page: An interactive module that allows management to simulate scenarios and calculate operational impact in real-time.
 *
-[🎥 Watch Dashboard Walkthrough]()
+[🎥 Watch Dashboard Walkthrough](https://github.com/MohayDevX/Salla-Call-Center-Dashboard/blob/main/2026-08-01%2022-40-13.mp4)
