@@ -23,3 +23,4 @@ The dashboard is built with a user-centric navigation system, divided into three
 * Agent Analysis Page: A deep dive into individual agent performance, comparing Actual ASA vs. Target ASA.
 * What-If Analysis Page: An interactive module that allows management to simulate scenarios and calculate operational impact in real-time.
 *
+[🎥 Watch Dashboard Walkthrough]()
